@@ -6,7 +6,7 @@ IMG 5: https://energydev.netlify.app/Image%205.png;
 IMG 6: https://energydev.netlify.app/Image%206.png;
 IMG 7: https://energydev.netlify.app/Image%207.png;
 IMG 8: https://energydev.netlify.app/Image%208.png;
-IMG 9: https://energydev.netlify.app/Image 9.png;
+IMG 9: https://energydev.netlify.app/Image%209.png;
 IMG 10: https://energydev.netlify.app/Image%2010.png;
 IMG 11: https://energydev.netlify.app/Image%2011.png;
 IMG 12: https://energydev.netlify.app/Image%2012.png;
